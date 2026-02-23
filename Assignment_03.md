@@ -1,5 +1,6 @@
 
 # APARTADO 1
+
 ## Sebastián Fernando Gutiérrez Rojas
 
 ### Rol que me gustaría desempeñar
@@ -22,8 +23,8 @@ Qué tipo de rol le gustaría desempeñar dentro de un equipo de software:
 Qué fortalezas personales cree que ya tiene hoy para aportar a un equipo:
  Soy bueno organizando a las personas y me desenvuelvo bien bajo presion
 
- Qué aspectos considera que debe fortalecer o mejorar para ser un buen integrante de equipo:
-    La puntualidad, el orden y la poca profesionalidad
+Qué aspectos considera que debe fortalecer o mejorar para ser un buen integrante de equipo:
+ La puntualidad, el orden y la poca profesionalidad
 
 # APARTADO 2
 
@@ -55,7 +56,7 @@ Sprint Retrospective: después de la review para evaluar qué mejorar como equip
 
 Si el proyecto lo requiere, se podrán programar reuniones extraordinarias, pero no reemplazan las ceremonias formales de Scrum.
 
-Reglas básicas sobre Git/GitHub
+## Reglas básicas sobre Git/GitHub
 
 No se permite trabajar directamente sobre main.
 
