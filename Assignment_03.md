@@ -1,4 +1,5 @@
 
+# APARTADO 1
 ## Sebastián Fernando Gutiérrez Rojas
 
 ### Rol que me gustaría desempeñar
@@ -12,3 +13,48 @@ Cuento con una buena base en lógica y estructuración de información. Además 
 ### Aspectos a mejorar
 
 Debo fortalecer mis habilidades en el trabajo colaborativo dentro de proyectos, especialmente en la coordinación técnica con otros desarrolladores para integrar correctamente la base de datos con el resto del sistema y también considero que debo profundizar en la optimización de consultas y en el diseño eficiente para manejar mayores volúmenes de información.
+
+## Yohan Steven Jimenez Hilarion
+
+Qué tipo de rol le gustaría desempeñar dentro de un equipo de software:
+ quien organiza y facilita (Scrum Master)
+
+Qué fortalezas personales cree que ya tiene hoy para aportar a un equipo:
+ Soy bueno organizando a las personas y me desenvuelvo bien bajo presion
+
+ Qué aspectos considera que debe fortalecer o mejorar para ser un buen integrante de equipo:
+    La puntualidad, el orden y la poca profesionalidad
+
+# APARTADO 2
+
+## Compromisos
+
+### Cómo usar el tablero
+
+El tablero que se utilizará será Jira bajo la metodología Scrum y el proyecto estará organizado en sprints de dos semanas, con un backlog priorizado por el Product Owner.
+
+## Cada tarea deberá:
+
+    Estar registrada en Jira antes de comenzar a trabajarla.
+
+    Tener una descripción clara, criterios de aceptación definidos y responsable asignado.  
+
+    Pasar por los estados del flujo: Backlog → To Do → In Progress → Code Review → Done.
+
+    Nadie trabajará en tareas que no estén registradas en Jira. El Scrum Master será el encargado de velar por que el tablero esté actualizado y que no existan tareas sin responsable.
+
+## Frecuencia mínima de reuniones
+
+Sprint Planning: al inicio de cada sprint cada dos semanas.
+
+Daily Scrum: reuniones cortas de máximo 15 minutos, martes, jueves y sábado.
+
+Sprint Review: al finalizar cada sprint para mostrar avances funcionales.
+
+Sprint Retrospective: después de la review para evaluar qué mejorar como equipo.
+
+Si el proyecto lo requiere, se podrán programar reuniones extraordinarias, pero no reemplazan las ceremonias formales de Scrum.
+
+Reglas básicas sobre Git/GitHub
+
+No se permite trabajar directamente sobre main.
