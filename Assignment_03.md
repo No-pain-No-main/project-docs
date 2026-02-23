@@ -12,4 +12,3 @@ Cuento con una buena base en lógica y estructuración de información. Además 
 ### Aspectos a mejorar
 
 Debo fortalecer mis habilidades en el trabajo colaborativo dentro de proyectos, especialmente en la coordinación técnica con otros desarrolladores para integrar correctamente la base de datos con el resto del sistema y también considero que debo profundizar en la optimización de consultas y en el diseño eficiente para manejar mayores volúmenes de información.
-=======
