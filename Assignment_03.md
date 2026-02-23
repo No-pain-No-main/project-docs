@@ -84,7 +84,7 @@ Moverse al siguiente sprint si el equipo lo considera necesario.
 
 No avisar a tiempo se considera incumplimiento del compromiso del sprint.
 
-Acuerdos sobre toma de decisiones
+Acuerdos sobre toma de decisiones 😁👍
 
 Las decisiones técnicas y de alcance se tomarán en las reuniones formales del sprint.
 
