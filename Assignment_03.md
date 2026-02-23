@@ -74,7 +74,7 @@ Compromisos cuando alguien no puede cumplir una tarea
 
 Si un integrante identifica que no podrá cumplir con una tarea dentro del sprint, debe informarlo inmediatamente en el Daily Scrum o por el canal oficial del equipo.
 
-La tarea podrá:
+## La tarea podrá:
 
 Reasignarse a otro integrante.
 
@@ -83,8 +83,8 @@ Dividirse en subtareas.
 Moverse al siguiente sprint si el equipo lo considera necesario.
 
 No avisar a tiempo se considera incumplimiento del compromiso del sprint.
-
-Acuerdos sobre toma de decisiones 😁👍
+ 
+## Acuerdos sobre toma de decisiones:  😁👍
 
 Las decisiones técnicas y de alcance se tomarán en las reuniones formales del sprint.
 
