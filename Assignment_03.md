@@ -35,13 +35,13 @@ El tablero que se utilizará será Jira bajo la metodología Scrum y el proyecto
 
 ## Cada tarea deberá:
 
-    Estar registrada en Jira antes de comenzar a trabajarla.
+Estar registrada en Jira antes de comenzar a trabajarla.
 
-    Tener una descripción clara, criterios de aceptación definidos y responsable asignado.  
+Tener una descripción clara, criterios de aceptación definidos y responsable asignado.  
 
-    Pasar por los estados del flujo: Backlog → To Do → In Progress → Code Review → Done.
+Pasar por los estados del flujo: Backlog → To Do → In Progress → Code Review → Done.
 
-    Nadie trabajará en tareas que no estén registradas en Jira. El Scrum Master será el encargado de velar por que el tablero esté actualizado y que no existan tareas sin responsable.
+Nadie trabajará en tareas que no estén registradas en Jira. El Scrum Master será el encargado de velar por que el tablero esté actualizado y que no existan tareas sin responsable.
 
 ## Frecuencia mínima de reuniones
 
@@ -58,3 +58,39 @@ Si el proyecto lo requiere, se podrán programar reuniones extraordinarias, pero
 Reglas básicas sobre Git/GitHub
 
 No se permite trabajar directamente sobre main.
+
+Cada funcionalidad o corrección debe desarrollarse en una rama propia, nombrada según el ID del issue en Jira.
+
+Todo cambio debe hacerse mediante Pull Request.
+
+Ningún Pull Request se fusionará sin al menos una revisión de otro integrante del equipo.
+
+Los commits deben ser claros y descriptivos.
+
+El main debe mantenerse siempre en estado estable y funcional.
+
+Compromisos cuando alguien no puede cumplir una tarea
+
+Si un integrante identifica que no podrá cumplir con una tarea dentro del sprint, debe informarlo inmediatamente en el Daily Scrum o por el canal oficial del equipo.
+
+La tarea podrá:
+
+Reasignarse a otro integrante.
+
+Dividirse en subtareas.
+
+Moverse al siguiente sprint si el equipo lo considera necesario.
+
+No avisar a tiempo se considera incumplimiento del compromiso del sprint.
+
+Acuerdos sobre toma de decisiones
+
+Las decisiones técnicas y de alcance se tomarán en las reuniones formales del sprint.
+
+Las decisiones menores pueden resolverse por consenso en el canal del equipo.
+
+Si no hay consenso, se votará y la decisión se tomará por mayoría simple.
+
+En caso de empate, el Scrum Master tendrá voto decisivo.
+
+Las decisiones importantes deberán quedar registradas en Jira o en el repositorio del proyecto para evitar ambigüedades futuras.
