@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/263263585?s=48&v=4" alt="Logo no pain no main()" width="150">
+  <img src="https://avatars.githubusercontent.com/u/263263585?s=400&u=2852bd5d41208b1a2e2e933e359ae08b02cf66f4&v=4" alt="Logo no pain no main()" width="150">
 </p>
 
 <h1 align="center">🏋️‍♂️ no pain no main()</h1>
