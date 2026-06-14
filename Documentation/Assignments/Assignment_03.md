@@ -26,6 +26,20 @@ Qué fortalezas personales cree que ya tiene hoy para aportar a un equipo:
 Qué aspectos considera que debe fortalecer o mejorar para ser un buen integrante de equipo:
  La puntualidad, el orden y la poca profesionalidad
 
+## Julian Ramirez Diaz
+
+### Rol
+
+Me gustaria enfocarme en las pruebas de calidad del software, asegurarme que sea accesible y funcional en diferentes espacios y momentos; además de notar errores en el desarrollo antes que sea demasiado tarde
+
+### Fortalezas
+
+Soy bueno trabajando bajo presion, aprendo rapidamente y me gusta entregar trabajos de calidad
+
+### Debilidades
+
+tiendo a dejar las cosas a ultimo minuto (evidentemente) y en general me cuesta el manejo del tiempo a la hora de cumplir con una deadline, tambien tengo dificultades comunicando mis ideas con las demás personas
+
 # APARTADO 2
 
 ## Compromisos
@@ -52,7 +66,7 @@ Daily Scrum: reuniones cortas de máximo 15 minutos, martes, jueves y sábado.
 
 Sprint Review: al finalizar cada sprint para mostrar avances funcionales.
 
-Sprint Retrospective: después de la review para evaluar qué mejorar como equipo.
+Sprint FeedBack: después de Sprint Review para evaluar qué mejorar como equipo.
 
 Si el proyecto lo requiere, se podrán programar reuniones extraordinarias, pero no reemplazan las ceremonias formales de Scrum.
 
@@ -74,15 +88,15 @@ Compromisos cuando alguien no puede cumplir una tarea
 
 Si un integrante identifica que no podrá cumplir con una tarea dentro del sprint, debe informarlo inmediatamente en el Daily Scrum o por el canal oficial del equipo.
 
-## La tarea podrá:
+### Dicha tarea podrá:
 
-Reasignarse a otro integrante.
+- Reasignarse a otro integrante.
 
-Dividirse en subtareas.
+- Dividirse en subtareas.
 
-Moverse al siguiente sprint si el equipo lo considera necesario.
+- Moverse al siguiente sprint si el equipo lo considera necesario.
 
-No avisar a tiempo se considera incumplimiento del compromiso del sprint.
+- No avisar a tiempo se considera incumplimiento del compromiso del sprint.
  
 ## Acuerdos sobre toma de decisiones:  😁👍
 
