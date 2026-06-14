@@ -36,7 +36,7 @@
 | **Sebastian Fernando Gutiérrez Rojas** | [segutierrezro@unal.edu.co](mailto:segutierrezro@unal.edu.co) |
 | **Andres Sebastian Sanchez Quintero** | [asanchezq@unal.edu.co](mailto:asanchezq@unal.edu.co) |
 | **Julian Ramirez Diaz** | [julramirezdi@unal.edu.co](mailto:julramirezdi@unal.edu.co) |
-| **Miguel Angel Hincapie Santacruz** |
+| **Miguel Angel Hincapie Santacruz** |[mhincapies@unal.edu.co](mailto:mhincapies@unal.edu.co) |
 </div>
 
 <p align="center">
